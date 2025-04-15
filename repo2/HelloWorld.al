@@ -6,6 +6,7 @@ pageextension 56000 CustomerListExt2 extends "Customer List"
 {
     trigger OnOpenPage();
     begin
+//Change
         Message('App published: Hello world');
     end;
 }
