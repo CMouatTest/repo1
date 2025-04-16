@@ -5,7 +5,7 @@
   "bcptTestFolders": [],
   "repoVersion": "2.0",
     "DeployToBC1": {
-    "EnvironmentName": "MXRIMA",
+    "EnvironmentName": "Copy-Prod",
     "continuousDeployment": true
   }
 }
